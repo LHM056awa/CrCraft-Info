@@ -15,6 +15,7 @@
 | [阵营](#阵营)                     |
 | [扩展玩法](#扩展玩法)             |
 | [服务器数据安全](#服务器数据安全) |
+| [Github](#github)                 |
 | [黑名单](#黑名单)                 |
 
 ## 群公告
@@ -136,6 +137,12 @@ frp-tag.com:60193
 ## 服务器数据安全
 
 每次关服后都会进行服务器备份，按照特定顺序轮流保存到十多个不同类型的[存储介质](https://baike.baidu.com/item/数据存储介质/20821732)（TF、SD、USB、HDD）中，同时云端也会有至少一个备份，除了地球毁灭之外，可以防止包括地震、火灾在内等其他天灾人祸导致存档完全丢失。
+
+## Github
+
+**Github**仓库：[https://github.com/LHM056awa/CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info)
+
+其中有**CrCraft**相关信息文档。
 
 ## 黑名单
 
