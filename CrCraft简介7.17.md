@@ -4,8 +4,8 @@
 
 **CrCraft 简介**是介绍 **CrCraft** 的文件，旨在帮助玩家更好地了解 **CrCraft**。
 
-| 目录                                  |
-| ------------------------------------- |
+| 目录                                    |
+| --------------------------------------- |
 | [群公告](#群公告)                        |
 | [群规则](#群规则)                        |
 | [服务器规则](#服务器规则)                |
@@ -134,6 +134,15 @@ DLC 物品在信息框底部一般带有 *`CrCraft DLC`* 标识，其中仅标�
 10. [**凋灵风暴**](https://modrinth.com/mod/crackers-wither-storm-mod)（挑战类）
 11. [**Explorer's Eve**](https://www.curseforge.com/minecraft/modpacks/explorers-eve "暮色森林+天境+凋灵风暴加强版")（挑战类）
 12. [**Poisonous Potato Update**](https://modrinth.com/modpack/poisonous-potato "其实就是 2024 年的愚人节版本 24w14potato 做成模组了")（生存类）
+
+## 白名单模组
+
+**CrCraft** 允许玩家以方便为目的使用一些不严重影响服务器平衡的自动化模组或脚本，它们在如下白名单：
+
+- [Litematica](https://modrinth.com/mod/litematica)
+- [Minecraft Book Printer](https://github.com/AzidoPP/Minecraft-Book-Printer)
+
+对于未在白名单中的模组，如果认为其确实也符合上述要求，可以私信服主讨论是否加入白名单。
 
 ## 服务器数据安全
 
