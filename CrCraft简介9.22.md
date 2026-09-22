@@ -179,6 +179,14 @@ DLC 物品在信息框底部一般带有 *`CrCraft DLC`* 标识，其中仅标�
 - ImAlexBlock
 - ruosha
 
+### 硬件支持
+
+感谢以下玩家捐赠硬件设备或出借服务器主机帮助服务器运行：
+
+- Mtve
+- 0ay
+- ~~Milk_awa~~
+
 ### 赞助支持
 
 欢迎为 **CrCraft** 捐款，让 **CrCraft** 不再亏本。
