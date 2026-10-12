@@ -1,23 +1,23 @@
 # CrCraft 简介
 
-**最后更新**：2026年10月7日  
+**最后更新**：2026年10月12日
 
 > 玩家有必要在每次更新简介时下载并查看。游玩 **CrCraft** 即表示已阅读并认可最新的简介。**因未阅读简介造成的损失，由玩家自行承担。**
 
 **CrCraft 简介**旨在帮助玩家更好地了解 **CrCraft** 服务器。
 
-| 目录                                    |
-| --------------------------------------- |
-| [群公告](#群公告)                        |
-| [群规则](#群规则)                        |
-| [服务器规则](#服务器规则)                |
-| [服务器机制](#服务器机制)                |
-| [阵营](#阵营)                            |
-| [扩展玩法](#扩展玩法)                    |
-| [服务器数据安全](#服务器数据安全)        |
-| [GitHub](#github)                        |
+| 目录 |
+| - |
+| [群公告](#群公告) |
+| [群规则](#群规则) |
+| [服务器规则](#服务器规则) |
+| [服务器机制](#服务器机制) |
+| [阵营](#阵营) |
+| [扩展玩法](#扩展玩法) |
+| [服务器数据安全](#服务器数据安全) |
+| [GitHub](#github) |
 | [支持 **CrCraft**](#支持-crcraft) |
-| [黑名单](#黑名单)                        |
+| [黑名单](#黑名单) |
 
 ## 群公告
 
@@ -141,7 +141,7 @@ DLC 物品在信息框底部一般带有 *`CrCraft DLC`* 标识，其中仅标�
 
 **CrCraft** 允许玩家以方便为目的使用一些不严重影响服务器平衡的自动化模组或脚本，它们在如下白名单：
 
-- [Litematica](https://modrinth.com/mod/litematica)
+- [Litematica](https://github.com/sakura-ryoko/litematica)
 - [Minecraft Book Printer](https://github.com/AzidoPP/Minecraft-Book-Printer)
 
 对于未在白名单中的模组，如果认为其确实也符合上述要求，可以私信服主讨论是否加入白名单。
@@ -154,13 +154,14 @@ DLC 物品在信息框底部一般带有 *`CrCraft DLC`* 标识，其中仅标�
 
 **CrCraft** 的文档和一些原创专用插件的源码公开在 **GitHub** 可供查阅。也欢迎点 Star 支持。
 
-### CrCraft Information
+**CrCraft** 相关信息文档：
 
-**CrCraft** 相关信息文档：[https://github.com/LHM056awa/CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info)
+- [CrCraft-Info](https://github.com/LHM056awa/CrCraft-Info)
 
-### CrCraft original dedicated plugins
+**CrCraft** 的一些原创专用插件：
 
-**CrCraft** 的一些原创专用插件：[https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/ExpRule](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/ExpRule)
+- [ExpRule](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/ExpRule)
+- [EndVoidRescue](https://github.com/Lustrous-Hope-Makes-Dreams-Radiance/EndVoidRescue)
 
 ## 支持 **CrCraft**
 
@@ -199,10 +200,10 @@ DLC 物品在信息框底部一般带有 *`CrCraft DLC`* 标识，其中仅标�
 
 在 [**CrCraft** QQ 群](https://qm.qq.com/q/qBTwK18VdC)或者 **CrCraft** 服务器中犯下重大过错，不允许再留在群内，并且尚未得到谅解的人。
 
-| 日期          | QQ号       | 游戏ID   | UUID                             | 原因                                                                                                                                                                                        |
-| ------------- | ---------- | -------- | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 日期 | QQ号 | 游戏ID | UUID | 原因 |
+| - | - | - | - | - |
 | 2025年9月14日 | 3801477277 | Milk_awa | 0d8bafa35d2644ac8976f4dd99c9186f | 以“免费”名义托管服务器，获取服务器后拒绝提供服务器备份，以"分裂服务器"威胁服主和玩家，恶意删除服务器存档，导致服务器回档两周。<br />*（见文件：`CrCraft历史记载`8月30日至9月14日）* |
-| 2026年4月30日 | 385958238  |          |                                  | 在 CrCraft 群和其他服务器群发布严重政治敏感的信息。                                                                                                                                         |
+| 2026年4月30日 | 385958238  | | | 在 CrCraft 群和其他服务器群发布严重政治敏感的信息。 |
 
 *表中的游戏 ID 为被列入黑名单时的 ID 。如果是正版账号，则还会显示 UUID。*
 
